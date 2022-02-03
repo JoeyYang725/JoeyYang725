@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 ![image](https://user-images.githubusercontent.com/63414391/152274334-1ddba182-f08f-4347-8f48-ec5e79b9905d.png)
 
 <!--
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoeyYang725)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoeyYang725)](https://github.com/anuraghazra/github-readme-stats) -->
